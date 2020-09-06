@@ -6,7 +6,7 @@
 Medical image segmentation is about partitioning a medical image into multiple segments or regions, each segmentation or region composed of a set of pixels or voxels. Often, segments correspond to semantically meaningful anatomical objects.<a href="#id_1">[1]</a>
 
 #### <> Deep Learning in Medical image Survey
-Title | Date | Links |<img width=20/> First Author| Code|
+Title | Date | Links |<img width=50/> First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
 Deep Learning in Medical Ultrasound Analysis: A Review | 2019 | [Engineering](https://www.sciencedirect.com/science/article/pii/S2095809918301887) | Shen
 Generative Adversarial Network in Medical Imaging: A Review | 2018 | [arXiv](https://arxiv.org/abs/1809.07294) | Xin Yi | No |  
