@@ -7,7 +7,7 @@
 ### <a href="#id_5">Part Five: Reference</a>
 &nbsp; 
 &nbsp; 
-&nbsp; 
+&nbsp;  
 ### <span id="id_0"/> Introduction
 Medical image segmentation is about partitioning a medical image into multiple segments or regions, each segmentation or region composed of a set of pixels or voxels. Often, segments correspond to semantically meaningful anatomical objects.<a href="#id_1">[1]</a>
 
