@@ -33,6 +33,7 @@ Guest Editorial Deep Learning in Medical Imaging: Overview and Future Promise of
 ### <span id="id_2"/>Part Two: Deep Learning in Medical Image Segmentation Survey
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
+A survey on U-shaped networks in medical image segmentations | 2020 | [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231220309218) | Liangliang Liu | No |  
 Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges | 2019 | [Journal of Digital Imaging](https://link.springer.com/article/10.1007/s10278-019-00227-x) | Mohammad Hesam Hesamian | No |  
 Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation | 2019 | [arXiv](https://arxiv.org/abs/1908.10454) | Nima Tajbakhsh | No |  
 Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Technical Aspects and Introduction to State-of-Art Applications | 2019 | [arXiv](https://arxiv.org/abs/1911.02521) |  Hyunseok Seo | No |  
