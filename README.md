@@ -49,6 +49,6 @@ Title | Date | Links |First Author| Code|
 ### <span id="id_4"/>Part Four: Medical Image Scholars and High-quality open source code
 Methods | Scholars | Date |Contens| Code|
 :---- |-----:|------:|-----------:|:-----:
-[NiftyNet](https://github.com/NifTK/NiftyNet) | E. Gibson | 2020 | (1)Support for 2-D, 2.5-D, 3-D, 4-D inputs (2)Implementation of recent networks (HighRes3DNet, 3D U-net, V-net, DeepMedic) (3)Comprehensive evaluation metrics for medical image segmentation | Tensorfolw |  
+[NiftyNet](https://github.com/NifTK/NiftyNet) | E. Gibson | 2020 | (1)Support for 2-D, 2.5-D, 3-D, 4-D inputs   (2)Implementation of recent networks (HighRes3DNet, 3D U-net, V-net, DeepMedic)   (3)Comprehensive evaluation metrics for medical image segmentation | Tensorfolw |  
 ### <span id="id_5"/>Reference 
 <span id ="id_1"> 1) Zhou S K . Introduction to Medical Image Recognition, Segmentation, and Parsing[M]// Medical Image Recognition, Segmentation and Parsing. 2016.
