@@ -8,6 +8,8 @@ Medical image segmentation is about partitioning a medical image into multiple s
 #### <> Deep Learning in Medical image Survey
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
+Deep Learning in Medical Ultrasound Analysis: A Review | 2019 | [Engineering](https://www.sciencedirect.com/science/article/pii/S2095809918301887) | Shen
+Generative Adversarial Network in Medical Imaging: A Review | 2018 | [arXiv](https://arxiv.org/abs/1809.07294) | Xin Yi | No |  
 GANs for Medical Image Analysis | 2018 | [arXiv](https://arxiv.org/abs/1809.06222) | Salome Kazeminia | No |  
 Deep Learning in Microscopy Image Analysis: A Survey | 2017 | [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/8118310) | Fuyong Xing | No |   
 Deep Learning in Medical Image Analysis | 2017 | [Annual Review of Biomedical Engineering](https://www.annualreviews.org/doi/10.1146/annurev-bioeng-071516-044442) | Dinggang Shen | No |  
