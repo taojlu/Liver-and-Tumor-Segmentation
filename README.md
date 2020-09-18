@@ -3,9 +3,9 @@
 ### <a href="#id_1">Part One: Deep Learning in Medical Image Survey</a>
 ### <a href="#id_2">Part Two: Deep Learning in Medical Image Segmentation Survey</a>
 ### <a href="#id_3">Part Three：Deep Learning in Liver and Tumor Segmentation</a> 
-### <a href="#id_4">Part Three：Machine Learning in Liver and Tumor Segmentation</a> 
-### <a href="#id_5">Part Four: Medical Image Scholars and High-quality open source code
-### <a href="#id_6">Part Five: Reference</a>
+### <a href="#id_4">Part Four：Machine Learning in Liver and Tumor Segmentation</a> 
+### <a href="#id_5">Part Five: Medical Image Scholars and High-quality open source code
+### <a href="#id_6">Part Six: Reference</a>
 &nbsp; 
 &nbsp; 
 &nbsp;  
