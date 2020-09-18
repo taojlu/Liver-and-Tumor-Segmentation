@@ -11,6 +11,9 @@
 ### <span id="id_0"/> Introduction
 Medical image segmentation is about partitioning a medical image into multiple segments or regions, each segmentation or region composed of a set of pixels or voxels. Often, segments correspond to semantically meaningful anatomical objects.<a href="#id_1">[1]</a>
 
+
+
+
 ### <span id="id_1"/> Part One: Deep Learning in Medical Image Survey
 Title | Date | Links | First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
@@ -30,6 +33,9 @@ Overview of deep learning in medical imaging | 2017 | [Radiological Physics and 
 Guest Editorial Deep Learning in Medical Imaging: Overview and Future Promise of an Exciting New Technique | 2016 | [ IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/document/7463094) | Hayit Greenspan | No |  
 
 
+
+
+
 ### <span id="id_2"/>Part Two: Deep Learning in Medical Image Segmentation Survey
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
@@ -39,14 +45,19 @@ Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Im
 Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Technical Aspects and Introduction to State-of-Art Applications | 2019 | [arXiv](https://arxiv.org/abs/1911.02521) |  Hyunseok Seo | No |  
 
 
+
+
 ### <span id="id_3"/>Part Three：Liver and Tumor Segmentation 
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
 
-Title | Date | Links |First Author| Code|
-:---- |-----:|------:|-----------:|:-----:
-Title | Date | Links |First Author| Code|
-:---- |-----:|------:|-----------:|:-----:
+3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes | 2016 |[arXiv](https://arxiv.org/abs/1607.00582) | Qi Dou | No |  
+Automatic 3D liver location and segmentation via convolutional neural networks and graph cut | 2016 | [arXiv](https://arxiv.org/abs/1605.03012) | Fang Lu | No |     
+
+
+
+
+
 ### <span id="id_4"/>Part Four: Medical Image Scholars and High-quality open source code
 Methods | Scholars | Date |Contens| Code|
 :---- |-----:|------:|-----------:|:-----:
@@ -54,6 +65,10 @@ Methods | Scholars | Date |Contens| Code|
 [MIScnn](https://github.com/frankkramer-lab/MIScnn) | Dominik Müller | 2019 | A Framework for Medical Image Segmentation with Convolutional Neural Networks and Deep Learning. | keras |  
 [segmentation_models](https://github.com/qubvel/segmentation_models.pytorch) | Pavel Yakubovskiy | 2019 | Python library with Neural Networks for Image Segmentation based on PyTorch. | Pytorch |  
 
+Title | Date | Links |First Author| Code|
+:---- |-----:|------:|-----------:|:-----:
+Title | Date | Links |First Author| Code|
+:---- |-----:|------:|-----------:|:-----:
 
 ### <span id="id_5"/>Reference 
 <span id ="id_1"> 1) Zhou S K . Introduction to Medical Image Recognition, Segmentation, and Parsing[M]// Medical Image Recognition, Segmentation and Parsing. 2016.
