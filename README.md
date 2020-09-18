@@ -13,7 +13,8 @@ Medical image segmentation is about partitioning a medical image into multiple s
 
 
 
-
+&nbsp; 
+&nbsp;  
 ### <span id="id_1"/> Part One: Deep Learning in Medical Image Survey
 Title | Date | Links | First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
@@ -35,7 +36,8 @@ Guest Editorial Deep Learning in Medical Imaging: Overview and Future Promise of
 
 
 
-
+&nbsp; 
+&nbsp;  
 ### <span id="id_2"/>Part Two: Deep Learning in Medical Image Segmentation Survey
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
@@ -46,7 +48,8 @@ Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Te
 
 
 
-
+&nbsp; 
+&nbsp;  
 ### <span id="id_3"/>Part Three：Liver and Tumor Segmentation 
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----: 
@@ -56,7 +59,8 @@ Automatic 3D liver location and segmentation via convolutional neural networks a
 
 
 
-
+&nbsp; 
+&nbsp;  
 ### <span id="id_4"/>Part Four: Medical Image Scholars and High-quality open source code
 Methods | Scholars | Date |Contens| Code|
 :---- |-----:|------:|-----------:|:-----:
@@ -64,10 +68,18 @@ Methods | Scholars | Date |Contens| Code|
 [MIScnn](https://github.com/frankkramer-lab/MIScnn) | Dominik Müller | 2019 | A Framework for Medical Image Segmentation with Convolutional Neural Networks and Deep Learning. | keras |  
 [segmentation_models](https://github.com/qubvel/segmentation_models.pytorch) | Pavel Yakubovskiy | 2019 | Python library with Neural Networks for Image Segmentation based on PyTorch. | Pytorch |  
 
+
+
+&nbsp; 
+&nbsp;  
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
 
+
+
+&nbsp; 
+&nbsp;  
 ### <span id="id_5"/>Reference 
 <span id ="id_1"> 1) Zhou S K . Introduction to Medical Image Recognition, Segmentation, and Parsing[M]// Medical Image Recognition, Segmentation and Parsing. 2016.
