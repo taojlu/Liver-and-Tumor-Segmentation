@@ -51,10 +51,10 @@ Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Te
 &nbsp; 
 &nbsp;  
 ### <span id="id_3"/>Part Three：Liver and Tumor Segmentation 
-Title | Date | Links |First Author| Code|
+Title | Date | Links |First Author| Model+Code|
 :---- |-----:|------:|-----------:|:-----: 
-3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes | 2016 |[arXiv](https://arxiv.org/abs/1607.00582) | Qi Dou | No |  
-Automatic 3D liver location and segmentation via convolutional neural networks and graph cut | 2016 | [arXiv](https://arxiv.org/abs/1605.03012) | Fang Lu | No |     
+3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes | 2016 |[arXiv](https://arxiv.org/abs/1607.00582) | Qi Dou | 3D |  
+Automatic 3D liver location and segmentation via convolutional neural networks and graph cut | 2016 | [arXiv](https://arxiv.org/abs/1605.03012) | Fang Lu | 3D |     
 
 
 
