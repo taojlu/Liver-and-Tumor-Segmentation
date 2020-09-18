@@ -2,9 +2,10 @@
 ### <a href="#id_0">Introduction</a>
 ### <a href="#id_1">Part One: Deep Learning in Medical Image Survey</a>
 ### <a href="#id_2">Part Two: Deep Learning in Medical Image Segmentation Survey</a>
-### <a href="#id_3">Part Three：Liver and Tumor Segmentation</a> 
-### <a href="#id_4">Part Four: Medical Image Scholars and High-quality open source code
-### <a href="#id_5">Part Five: Reference</a>
+### <a href="#id_3">Part Three：Deep Learning in Liver and Tumor Segmentation</a> 
+### <a href="#id_4">Part Three：Machine Learning in Liver and Tumor Segmentation</a> 
+### <a href="#id_5">Part Four: Medical Image Scholars and High-quality open source code
+### <a href="#id_6">Part Five: Reference</a>
 &nbsp; 
 &nbsp; 
 &nbsp;  
@@ -50,7 +51,7 @@ Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Te
 
 &nbsp; 
 &nbsp;  
-### <span id="id_3"/>Part Three：Liver and Tumor Segmentation 
+### <span id="id_3"/>Part Three：Deep Learning in Liver and Tumor Segmentation 
 Title | Date | Links |First Author| Model+Code|
 :---- |-----:|------:|-----------:|:-----: 
 Automatic Liver Lesion Segmentation Using A Deep Convolutional Neural Network Method | 2017(ISBI Rank first) | [arXiv](https://arxiv.org/abs/1704.07239) | Xiao Han |  U-Net+Resnet 3D |  
@@ -58,11 +59,16 @@ Automatic Liver Lesion Segmentation Using A Deep Convolutional Neural Network Me
 Automatic 3D liver location and segmentation via convolutional neural networks and graph cut | 2016 | [arXiv](https://arxiv.org/abs/1605.03012) | Fang Lu | 3D |     
 
 
-
+&nbsp; 
+&nbsp;  
+### <span id="id_4"/>Part Four：Machine Learning in Liver and Tumor Segmentation 
+Title | Date | Links |First Author| Model+Code|
+:---- |-----:|------:|-----------:|:-----: 
+A Controlled Generative Model for Segmentation of Liver Tumors | 2019 | [ICEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8786681) | Nasim Nasiri | Generative Model |   
 
 &nbsp; 
 &nbsp;  
-### <span id="id_4"/>Part Four: Medical Image Scholars and High-quality open source code
+### <span id="id_5"/>Part Five: Medical Image Scholars and High-quality open source code
 Methods | Scholars | Date |Contens| Code|
 :---- |-----:|------:|-----------:|:-----:
 [NiftyNet](https://github.com/NifTK/NiftyNet) | E. Gibson | 2020 | (1)Support for 2-D, 2.5-D, 3-D, 4-D inputs   (2)Implementation of recent networks (HighRes3DNet, 3D U-net, V-net, DeepMedic)   (3)Comprehensive evaluation metrics for medical image segmentation | Tensorfolw |  
@@ -82,5 +88,5 @@ Title | Date | Links |First Author| Code|
 
 &nbsp; 
 &nbsp;  
-### <span id="id_5"/>Reference 
+### <span id="id_6"/>Reference 
 <span id ="id_1"> 1) Zhou S K . Introduction to Medical Image Recognition, Segmentation, and Parsing[M]// Medical Image Recognition, Segmentation and Parsing. 2016.
