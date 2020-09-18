@@ -53,6 +53,7 @@ Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Te
 ### <span id="id_3"/>Part Three：Liver and Tumor Segmentation 
 Title | Date | Links |First Author| Model+Code|
 :---- |-----:|------:|-----------:|:-----: 
+Automatic Liver Lesion Segmentation Using A Deep Convolutional Neural Network Method | 2017(ISBI Rank first) | [arXiv](https://arxiv.org/abs/1704.07239) | Xiao Han |  U-Net+Resnet 3D |  
 3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes | 2016 |[arXiv](https://arxiv.org/abs/1607.00582) | Qi Dou | 3D |  
 Automatic 3D liver location and segmentation via convolutional neural networks and graph cut | 2016 | [arXiv](https://arxiv.org/abs/1605.03012) | Fang Lu | 3D |     
 
