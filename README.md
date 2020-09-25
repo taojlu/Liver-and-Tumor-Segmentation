@@ -81,6 +81,7 @@ Liver lesion segmentation informed by joint liver segmentation | 2018 | [ISBI](h
 A novel variational method for liver segmentation based on statistical shape model prior and enforced local statistical feature | 2017 | [ISBI](https://ieeexplore.ieee.org/document/7950515) | Shenhai Zheng | Variational |
 Automatic Liver Segmentation Using an Adversarial Image-to-Image Network | 2017 | [MICCAI](https://arxiv.org/abs/1707.08037) | Dong Yang | DI2IN|  
 Automatic Liver and Lesion Segmentation in CT Using Cascaded Fully Convolutional Neural Networks and 3D Conditional Random Fields | 2016 | [MICCAI](https://arxiv.org/abs/1610.02177) | Patrick Ferdinand Christ | Cascade FCN |  
+3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes | 2016 | [MICCAI](https://arxiv.org/abs/1607.00582) | Qi Dou | 3D DSN |  
 Random forests on hierarchical multi-scale supervoxels for liver tumor segmentation in dynamic contrast-enhanced CT scans | 2016 | [ISBI](https://ieeexplore.ieee.org/document/7493296) | P.-H. Conze | RF | 
 
 &nbsp; 
