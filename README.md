@@ -63,7 +63,13 @@ Automatic 3D liver location and segmentation via convolutional neural networks a
 &nbsp;  
 ### <span id="id_4"/>Part Four：Machine Learning in Liver and Tumor Segmentation 
 Title | Date | Links |First Author| Model+Code|
-:---- |-----:|------:|-----------:|:-----: 
+:---- |-----:|------:|-----------:|:-----:  
+Hybrid Cascaded Neural Network for Liver Lesion Segmentation | 2020 | [ISBI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098656) | Raunak Dey | Cascaded neural network |  
+Liver Segmentation in CT with MRI Data: Zero-Shot Domain Adaptation by Contour Extraction and Shape Priors | 2020 | [ISBI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098615) | Pham | U-net |
+Mask Mining for Improved Liver Lesion Segmentation | 2020 | [ISBI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098460) | Karsten Roth | U-net |  
+Training Liver Vessel Segmentation Deep Neural Networks on Noisy Labels from Contrast CT Imaging | 2020 | [ISBI](https://ieeexplore.ieee.org/document/9098509) | Minfeng Xu | CNN |   
+Deep Learning and Unsupervised Fuzzy C-Means Based Level-Set Segmentation for Liver Tumor | 2020 | [ISBI](https://ieeexplore.ieee.org/document/9098701) | Yue Zhang | level-set | 
+Liver Guided Pancreas Segmentation | 2020 | [ISBI](https://ieeexplore.ieee.org/abstract/document/9098388) | Yue Zhang | [3D CNN](https://github.com/sustecher/LiverGuidedPancreasSegmentation) |   
 A Controlled Generative Model for Segmentation of Liver Tumors | 2019 | [ICEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8786681) | Nasim Nasiri | Generative Model |   
 
 &nbsp; 
