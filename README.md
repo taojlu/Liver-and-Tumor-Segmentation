@@ -73,8 +73,16 @@ Liver Guided Pancreas Segmentation | 2020 | [ISBI](https://ieeexplore.ieee.org/a
 Feature Fusion Encoder Decoder Network for Automatic Liver Lesion Segmentation | 2019 | [ISBI](https://arxiv.org/abs/1903.11834) | Xueying Chen | FED-Net |   
 Liver Steatosis Segmentation With Deep Learning Methods | 2019 | [ISBI](https://ieeexplore.ieee.org/document/8759600) | Xiaoyuan Guo | Mask-RCNN | 
 A Controlled Generative Model for Segmentation of Liver Tumors | 2019 | [ICEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8786681) | Nasim Nasiri | Generative Model | 
+Radiomics-guided GAN for Segmentation of Liver Tumor Without Contrast Agents | 2019 | [MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_27) | Xiaojiao Xiao | GAN |
+Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation | 2019 | [MICCAI](https://arxiv.org/abs/1907.13590) | Junlin Yang | DADR |
+Liver Segmentation in Magnetic Resonance Imaging via Mean Shape Fitting with Fully Convolutional Neural Networks | 2019 | [MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_28) | Qi Zeng | FCN |
+Semi-supervised Segmentation of Liver Using Adversarial Learning with Deep Atlas Prior | 2019 | [MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_17) | 
+ Han Zheng | DAP |
 Liver lesion segmentation informed by joint liver segmentation | 2018 | [ISBI](https://ieeexplore.ieee.org/document/8363817) | Eugene Vorontsov | FCN | 
-A novel variational method for liver segmentation based on statistical shape model prior and enforced local statistical feature | 2017 | [ISBI](https://ieeexplore.ieee.org/document/7950515) | Shenhai Zheng | Variational |  Random forests on hierarchical multi-scale supervoxels for liver tumor segmentation in dynamic contrast-enhanced CT scans | 2016 | [ISBI](https://ieeexplore.ieee.org/document/7493296) | P.-H. Conze | RF | 
+A novel variational method for liver segmentation based on statistical shape model prior and enforced local statistical feature | 2017 | [ISBI](https://ieeexplore.ieee.org/document/7950515) | Shenhai Zheng | Variational |
+Automatic Liver Segmentation Using an Adversarial Image-to-Image Network | 2017 | [MICCAI](https://arxiv.org/abs/1707.08037) | Dong Yang | DI2IN|  
+Automatic Liver and Lesion Segmentation in CT Using Cascaded Fully Convolutional Neural Networks and 3D Conditional Random Fields | 2016 | [MICCAI](https://arxiv.org/abs/1610.02177) | Patrick Ferdinand Christ | Cascade FCN |  
+Random forests on hierarchical multi-scale supervoxels for liver tumor segmentation in dynamic contrast-enhanced CT scans | 2016 | [ISBI](https://ieeexplore.ieee.org/document/7493296) | P.-H. Conze | RF | 
 
 &nbsp; 
 &nbsp;  
