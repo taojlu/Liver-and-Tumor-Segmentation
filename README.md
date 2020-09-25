@@ -19,13 +19,13 @@ Medical image segmentation is about partitioning a medical image into multiple s
 ### <span id="id_1"/> Part One: Deep Learning in Medical Image Survey
 Title | Date | Links | First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
-A review of deep learning in medical imaging: Image traits, technology trends, case studies with progress highlights, and future promises | 2020 | [arXiv](https://arxiv.org/abs/2008.09104) | S.Kevin Zhou | No |  
-A Survey on Domain Knowledge Powered Deep Learning for Medical Image Analysis | 2020 | [arXiv](https://arxiv.org/abs/2004.12150) | Xiaozheng Xie | No |  
+A review of deep learning in medical imaging: Image traits, technology trends, case studies with progress highlights, and future promises | 2020 | [CORR](https://arxiv.org/abs/2008.09104) | S.Kevin Zhou | No |  
+A Survey on Domain Knowledge Powered Deep Learning for Medical Image Analysis | 2020 | [CoRR](https://arxiv.org/abs/2004.12150) | Xiaozheng Xie | No |  
 Model-Based and Data-Driven Strategies in Medical Image Computing | 2019 | [Proceedings of the IEEE](https://ieeexplore.ieee.org/document/8867900) | Daniel Rueckert | No |  
-Deep neural network models for computational histopathology: A survey | 2019 | [arXiv](https://arxiv.org/abs/1912.12378) | Chetan L.Srinidhi | No |  
+Deep neural network models for computational histopathology: A survey | 2019 | [CoRR](https://arxiv.org/abs/1912.12378) | Chetan L.Srinidhi | No |  
 Deep Learning in Medical Ultrasound Analysis: A Review | 2019 | [Engineering](https://www.sciencedirect.com/science/article/pii/S2095809918301887) | Shenfeng Liu | No |  
-Generative Adversarial Network in Medical Imaging: A Review | 2018 | [arXiv](https://arxiv.org/abs/1809.07294) | Xin Yi | No |  
-GANs for Medical Image Analysis | 2018 | [arXiv](https://arxiv.org/abs/1809.06222) | Salome Kazeminia | No |
+Generative Adversarial Network in Medical Imaging: A Review | 2018 | [Medical Image Analysis](https://arxiv.org/abs/1809.07294) | Xin Yi | No |  
+GANs for Medical Image Analysis | 2018 | [CoRR](https://arxiv.org/abs/1809.06222) | Salome Kazeminia | No |
 Deep learning in medical imaging and radiation therapy | 2018 | [Medical Physics](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.13264) | Berkman Sahiner| No |  
 Deep Learning in Microscopy Image Analysis: A Survey | 2017 | [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/8118310) | Fuyong Xing | No |   
 Deep Learning in Medical Image Analysis | 2017 | [Annual Review of Biomedical Engineering](https://www.annualreviews.org/doi/10.1146/annurev-bioeng-071516-044442) | Dinggang Shen | No |  
@@ -44,8 +44,8 @@ Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
 A survey on U-shaped networks in medical image segmentations | 2020 | [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231220309218) | Liangliang Liu | No |  
 Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges | 2019 | [Journal of Digital Imaging](https://link.springer.com/article/10.1007/s10278-019-00227-x) | Mohammad Hesam Hesamian | No |  
-Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation | 2019 | [arXiv](https://arxiv.org/abs/1908.10454) | Nima Tajbakhsh | No |  
-Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Technical Aspects and Introduction to State-of-Art Applications | 2019 | [arXiv](https://arxiv.org/abs/1911.02521) |  Hyunseok Seo | No |  
+Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation | 2019 | [Medical Image Analysis](https://arxiv.org/abs/1908.10454) | Nima Tajbakhsh | No |  
+Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Technical Aspects and Introduction to State-of-Art Applications | 2019 | [CoRR](https://arxiv.org/abs/1911.02521) |  Hyunseok Seo | No |  
 
 
 
@@ -54,9 +54,9 @@ Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Te
 ### <span id="id_3"/>Part Three：Deep Learning in Liver and Tumor Segmentation 
 Title | Date | Links |First Author| Model+Code|
 :---- |-----:|------:|-----------:|:-----: 
-Automatic Liver Lesion Segmentation Using A Deep Convolutional Neural Network Method | 2017(ISBI Rank first) | [arXiv](https://arxiv.org/abs/1704.07239) | Xiao Han |  U-Net+Resnet 3D |  
-3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes | 2016 |[arXiv](https://arxiv.org/abs/1607.00582) | Qi Dou | 3D |  
-Automatic 3D liver location and segmentation via convolutional neural networks and graph cut | 2016 | [arXiv](https://arxiv.org/abs/1605.03012) | Fang Lu | 3D |     
+Automatic Liver Lesion Segmentation Using A Deep Convolutional Neural Network Method | 2017(ISBI Rank first) | [CoRR](https://arxiv.org/abs/1704.07239) | Xiao Han |  U-Net+Resnet 3D |  
+3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes | 2016 |[MICCAI](https://arxiv.org/abs/1607.00582) | Qi Dou | 3D |  
+Automatic 3D liver location and segmentation via convolutional neural networks and graph cut | 2016 | [CoRR](https://arxiv.org/abs/1605.03012) | Fang Lu | 3D |     
 
 
 &nbsp; 
