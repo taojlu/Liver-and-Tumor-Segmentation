@@ -70,7 +70,11 @@ Mask Mining for Improved Liver Lesion Segmentation | 2020 | [ISBI](https://ieeex
 Training Liver Vessel Segmentation Deep Neural Networks on Noisy Labels from Contrast CT Imaging | 2020 | [ISBI](https://ieeexplore.ieee.org/document/9098509) | Minfeng Xu | CNN |   
 Deep Learning and Unsupervised Fuzzy C-Means Based Level-Set Segmentation for Liver Tumor | 2020 | [ISBI](https://ieeexplore.ieee.org/document/9098701) | Yue Zhang | level-set | 
 Liver Guided Pancreas Segmentation | 2020 | [ISBI](https://ieeexplore.ieee.org/abstract/document/9098388) | Yue Zhang | [3D CNN](https://github.com/sustecher/LiverGuidedPancreasSegmentation) |   
-A Controlled Generative Model for Segmentation of Liver Tumors | 2019 | [ICEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8786681) | Nasim Nasiri | Generative Model |   
+Feature Fusion Encoder Decoder Network for Automatic Liver Lesion Segmentation | 2019 | [ISBI](https://arxiv.org/abs/1903.11834) | Xueying Chen | FED-Net |   
+Liver Steatosis Segmentation With Deep Learning Methods | 2019 | [ISBI](https://ieeexplore.ieee.org/document/8759600) | Xiaoyuan Guo | Mask-RCNN | 
+A Controlled Generative Model for Segmentation of Liver Tumors | 2019 | [ICEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8786681) | Nasim Nasiri | Generative Model | 
+Liver lesion segmentation informed by joint liver segmentation | 2018 | [ISBI](https://ieeexplore.ieee.org/document/8363817) | Eugene Vorontsov | FCN | 
+A novel variational method for liver segmentation based on statistical shape model prior and enforced local statistical feature | 2017 | [ISBI](https://ieeexplore.ieee.org/document/7950515) | Shenhai Zheng | Variational |  Random forests on hierarchical multi-scale supervoxels for liver tumor segmentation in dynamic contrast-enhanced CT scans | 2016 | [ISBI](https://ieeexplore.ieee.org/document/7493296) | P.-H. Conze | RF | 
 
 &nbsp; 
 &nbsp;  
