@@ -2,8 +2,8 @@
 ### <a href="#id_0">Introduction</a>
 ### <a href="#id_1">Part One: Deep Learning in Medical Image Survey</a>
 ### <a href="#id_2">Part Two: Deep Learning in Medical Image Segmentation Survey</a>
-### <a href="#id_3">Part Three：Deep Learning in Liver and Tumor Segmentation</a> 
-### <a href="#id_4">Part Four：Machine Learning in Liver and Tumor Segmentation</a> 
+### <a href="#id_3">Part Three：Machine Learning in Liver and Tumor Segmentation</a> 
+### <a href="#id_4">Part Four：Deep Learning in Liver and Tumor Segmentation</a> 
 ### <a href="#id_5">Part Five: Medical Image Scholars and High-quality open source code
 ### <a href="#id_6">Part Six: Reference</a>
 &nbsp; 
@@ -51,17 +51,15 @@ Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Te
 
 &nbsp; 
 &nbsp;  
-### <span id="id_3"/>Part Three：Deep Learning in Liver and Tumor Segmentation 
+### <span id="id_3"/>Part Three：Machine Learning in Liver and Tumor Segmentation 
 Title | Date | Links |First Author| Model+Code|
 :---- |-----:|------:|-----------:|:-----: 
-Automatic Liver Lesion Segmentation Using A Deep Convolutional Neural Network Method | 2017(ISBI Rank first) | [CoRR](https://arxiv.org/abs/1704.07239) | Xiao Han |  U-Net+Resnet 3D |  
-3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes | 2016 |[MICCAI](https://arxiv.org/abs/1607.00582) | Qi Dou | 3D |  
-Automatic 3D liver location and segmentation via convolutional neural networks and graph cut | 2016 | [CoRR](https://arxiv.org/abs/1605.03012) | Fang Lu | 3D |     
+A novel variational method for liver segmentation based on statistical shape model prior and enforced local statistical feature | 2017 | [ISBI](https://ieeexplore.ieee.org/document/7950515) | Shenhai Zheng | Variational |
 
 
 &nbsp; 
 &nbsp;  
-### <span id="id_4"/>Part Four：Machine Learning in Liver and Tumor Segmentation 
+### <span id="id_4"/>Part Four：Deep Learning in Liver and Tumor Segmentation 
 Title | Date | Links |First Author| Model+Code|
 :---- |-----:|------:|-----------:|:-----:  
 Hybrid Cascaded Neural Network for Liver Lesion Segmentation | 2020 | [ISBI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098656) | Raunak Dey | Cascaded neural network |  
@@ -78,9 +76,12 @@ Unsupervised Domain Adaptation via Disentangled Representations: Application to 
 Liver Segmentation in Magnetic Resonance Imaging via Mean Shape Fitting with Fully Convolutional Neural Networks | 2019 | [MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_28) | Qi Zeng | FCN |
 Semi-supervised Segmentation of Liver Using Adversarial Learning with Deep Atlas Prior | 2019 | [MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_17) | Han Zheng | DAP |  
 Liver lesion segmentation informed by joint liver segmentation | 2018 | [ISBI](https://ieeexplore.ieee.org/document/8363817) | Eugene Vorontsov | FCN | 
-A novel variational method for liver segmentation based on statistical shape model prior and enforced local statistical feature | 2017 | [ISBI](https://ieeexplore.ieee.org/document/7950515) | Shenhai Zheng | Variational |
+
 Automatic Liver Segmentation Using an Adversarial Image-to-Image Network | 2017 | [MICCAI](https://arxiv.org/abs/1707.08037) | Dong Yang | DI2IN|  
 Automatic Liver and Lesion Segmentation in CT Using Cascaded Fully Convolutional Neural Networks and 3D Conditional Random Fields | 2016 | [MICCAI](https://arxiv.org/abs/1610.02177) | Patrick Ferdinand Christ | Cascade FCN |  
+Automatic Liver Lesion Segmentation Using A Deep Convolutional Neural Network Method | 2017(ISBI Rank first) | [CoRR](https://arxiv.org/abs/1704.07239) | Xiao Han |  U-Net+Resnet 3D |  
+3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes | 2016 |[MICCAI](https://arxiv.org/abs/1607.00582) | Qi Dou | 3D |  
+Automatic 3D liver location and segmentation via convolutional neural networks and graph cut | 2016 | [CoRR](https://arxiv.org/abs/1605.03012) | Fang Lu | 3D |     
 3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes | 2016 | [MICCAI](https://arxiv.org/abs/1607.00582) | Qi Dou | 3D DSN |  
 Random forests on hierarchical multi-scale supervoxels for liver tumor segmentation in dynamic contrast-enhanced CT scans | 2016 | [ISBI](https://ieeexplore.ieee.org/document/7493296) | P.-H. Conze | RF | 
 
@@ -97,8 +98,14 @@ Methods | Scholars | Date |Contens| Code|
 
 &nbsp; 
 &nbsp;  
-Title | Date | Links |First Author| Code|
-:---- |-----:|------:|-----------:|:-----:
+Part Six: Liver and Tumor Datasets
+Dataset | Date | Paper|
+:------ |-----:|:-----:
+[MICCAI-SLiver07](http://www.sliver07.org/index.php) | 2007 | [IEEE TMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4781564) |
+
+
+
+
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
 
