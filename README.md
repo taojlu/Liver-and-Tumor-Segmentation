@@ -75,8 +75,7 @@ Radiomics-guided GAN for Segmentation of Liver Tumor Without Contrast Agents | 2
 Unsupervised Domain Adaptation via Disentangled Representations: Application to Cross-Modality Liver Segmentation | 2019 | [MICCAI](https://arxiv.org/abs/1907.13590) | Junlin Yang | DADR |
 Liver Segmentation in Magnetic Resonance Imaging via Mean Shape Fitting with Fully Convolutional Neural Networks | 2019 | [MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_28) | Qi Zeng | FCN |
 Semi-supervised Segmentation of Liver Using Adversarial Learning with Deep Atlas Prior | 2019 | [MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_17) | Han Zheng | DAP |  
-Liver lesion segmentation informed by joint liver segmentation | 2018 | [ISBI](https://ieeexplore.ieee.org/document/8363817) | Eugene Vorontsov | FCN | 
-
+Liver lesion segmentation informed by joint liver segmentation | 2018 | [ISBI](https://ieeexplore.ieee.org/document/8363817) | Eugene Vorontsov | FCN |   
 Automatic Liver Segmentation Using an Adversarial Image-to-Image Network | 2017 | [MICCAI](https://arxiv.org/abs/1707.08037) | Dong Yang | DI2IN|  
 Automatic Liver and Lesion Segmentation in CT Using Cascaded Fully Convolutional Neural Networks and 3D Conditional Random Fields | 2016 | [MICCAI](https://arxiv.org/abs/1610.02177) | Patrick Ferdinand Christ | Cascade FCN |  
 Automatic Liver Lesion Segmentation Using A Deep Convolutional Neural Network Method | 2017(ISBI Rank first) | [CoRR](https://arxiv.org/abs/1704.07239) | Xiao Han |  U-Net+Resnet 3D |  
