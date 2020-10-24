@@ -101,6 +101,8 @@ Part Six: Liver and Tumor Datasets
 Dataset | Date | Paper|
 :------ |-----:|:-----:
 [MICCAI-SLiver07](http://www.sliver07.org/index.php) | 2007 | [IEEE TMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4781564) |
+[Lits-2017](https://competitions.codalab.org/competitions/17094#learn_the_details-overview) |2017 |--|   
+
 
 
 
