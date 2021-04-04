@@ -1,22 +1,22 @@
 # Liver Segmentaiton Papers 
-### <a href="#id_0">Introduction</a>
-### <a href="#id_1">Part One: Deep Learning in Medical Image Survey</a>
-### <a href="#id_2">Part Two: Deep Learning in Medical Image Segmentation Survey</a>
-### <a href="#id_3">Part Three：Machine Learning in Liver and Tumor Segmentation</a> 
-### <a href="#id_4">Part Four：Deep Learning in Liver and Tumor Segmentation</a> 
-### <a href="#id_5">Part Five: Medical Image Scholars and High-quality open source code
-### <a href="#id_6">Part Six: Reference</a>
+#### <a href="#id_0">Introduction</a>
+#### <a href="#id_1">Part One: Deep Learning in Medical Image Survey</a>
+#### <a href="#id_2">Part Two: Deep Learning in Medical Image Segmentation Survey</a>
+#### <a href="#id_3">Part Three：Machine Learning in Liver and Tumor Segmentation</a> 
+#### <a href="#id_4">Part Four：Deep Learning in Liver and Tumor Segmentation</a> 
+#### <a href="#id_5">Part Five: Medical Image Scholars and High-quality open source code
+#### <a href="#id_6">Part Six: Reference</a>
 &nbsp; 
 &nbsp; 
 &nbsp;  
-### <span id="id_0"/> Introduction
+#### <span id="id_0"/> Introduction
 Medical image segmentation is about partitioning a medical image into multiple segments or regions, each segmentation or region composed of a set of pixels or voxels. Often, segments correspond to semantically meaningful anatomical objects.<a href="#id_Ref1">[1]</a>
 
 
 
 &nbsp; 
 &nbsp;  
-### <span id="id_1"/> Part One: Deep Learning in Medical Image Survey
+#### <span id="id_1"/> Part One: Deep Learning in Medical Image Survey
 Title | Date | Links | First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
 A review of deep learning in medical imaging: Image traits, technology trends, case studies with progress highlights, and future promises | 2020 | [CORR](https://arxiv.org/abs/2008.09104) | S.Kevin Zhou | No |  
@@ -39,7 +39,7 @@ Guest Editorial Deep Learning in Medical Imaging: Overview and Future Promise of
 
 &nbsp; 
 &nbsp;  
-### <span id="id_2"/>Part Two: Deep Learning in Medical Image Segmentation Survey
+#### <span id="id_2"/>Part Two: Deep Learning in Medical Image Segmentation Survey
 Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----:
 A survey on U-shaped networks in medical image segmentations | 2020 | [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231220309218) | Liangliang Liu | No |  
@@ -59,7 +59,7 @@ A novel variational method for liver segmentation based on statistical shape mod
 
 &nbsp; 
 &nbsp;  
-### <span id="id_4"/>Part Four：Deep Learning in Liver and Tumor Segmentation 
+#### <span id="id_4"/>Part Four：Deep Learning in Liver and Tumor Segmentation 
 Title | Date | Links |First Author| Model+Code|
 :---- |-----:|------:|-----------:|:-----:  
 Hybrid Cascaded Neural Network for Liver Lesion Segmentation | 2020 | [ISBI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098656) | Raunak Dey | Cascaded neural network |  
@@ -86,7 +86,7 @@ Random forests on hierarchical multi-scale supervoxels for liver tumor segmentat
 
 &nbsp; 
 &nbsp;  
-### <span id="id_5"/>Part Five: Medical Image Scholars and High-quality open source code
+#### <span id="id_5"/>Part Five: Medical Image Scholars and High-quality open source code
 Methods | Scholars | Date |Contens| Code|
 :---- |-----:|------:|-----------:|:-----:
 [NiftyNet](https://github.com/NifTK/NiftyNet) | E. Gibson | 2020 | (1)Support for 2-D, 2.5-D, 3-D, 4-D inputs   (2)Implementation of recent networks (HighRes3DNet, 3D U-net, V-net, DeepMedic)   (3)Comprehensive evaluation metrics for medical image segmentation | Tensorfolw |  
@@ -114,5 +114,5 @@ Title | Date | Links |First Author| Code|
 
 &nbsp; 
 &nbsp;  
-### <span id="id_6"/>Reference 
+#### <span id="id_6"/>Reference 
 <span id ="id_Ref1"> 1) Zhou S K . Introduction to Medical Image Recognition, Segmentation, and Parsing[M]// Medical Image Recognition, Segmentation and Parsing. 2016.
