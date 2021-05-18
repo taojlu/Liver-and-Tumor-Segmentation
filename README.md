@@ -51,7 +51,7 @@ Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Te
 
 &nbsp; 
 &nbsp;  
-### <span id="id_3"/>Part Three：Machine Learning in Liver and Tumor Segmentation 
+#### <span id="id_3"/>Part Three：Machine Learning in Liver and Tumor Segmentation 
 Title | Date | Links |First Author| Model+Code|
 :---- |-----:|------:|-----------:|:-----: 
 A novel variational method for liver segmentation based on statistical shape model prior and enforced local statistical feature | 2017 | [ISBI](https://ieeexplore.ieee.org/document/7950515) | Shenhai Zheng | Variational |
@@ -62,6 +62,7 @@ A novel variational method for liver segmentation based on statistical shape mod
 #### <span id="id_4"/>Part Four：Deep Learning in Liver and Tumor Segmentation 
 Title | Date | Links |First Author| Model+Code|
 :---- |-----:|------:|-----------:|:-----:  
+Weakly-Supervised Teacher-Student Network for Liver Tumor Segmentation from Non-enhanced Images | 2021 | [Medical Image Analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841521000517) | Dong Zhang | --- |
 Hybrid Cascaded Neural Network for Liver Lesion Segmentation | 2020 | [ISBI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098656) | Raunak Dey | Cascaded neural network |  
 Liver Segmentation in CT with MRI Data: Zero-Shot Domain Adaptation by Contour Extraction and Shape Priors | 2020 | [ISBI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098615) | Pham | U-net |
 Mask Mining for Improved Liver Lesion Segmentation | 2020 | [ISBI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098460) | Karsten Roth | U-net |  
