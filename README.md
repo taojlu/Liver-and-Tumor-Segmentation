@@ -2,7 +2,7 @@
 #### <a href="#id_0">Introduction</a>
 #### <a href="#id_1">Part One: Deep Learning in Medical Image Survey</a>
 #### <a href="#id_2">Part Two: Deep Learning in Medical Image Segmentation Survey</a>
-#### <a href="#id_3">Part Three：Machine Learning in Liver and Tumor Segmentation</a> 
+#### <a href="#id_3">Part Three：Deep Learning in Liver Segmentation Survey</a> 
 #### <a href="#id_4">Part Four：Deep Learning in Liver and Tumor Segmentation</a> 
 #### <a href="#id_5">Part Five: Medical Image Scholars and High-quality open source code
 #### <a href="#id_6">Part Six: Reference</a>
@@ -51,7 +51,7 @@ Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Te
 
 &nbsp; 
 &nbsp;  
-#### <span id="id_3"/>Part Three：Machine Learning in Liver and Tumor Segmentation 
+#### <span id="id_3"/>Part Three：Deep Learning in Liver Segmentation Survey 
 Title | Date | Links |First Author| Model+Code|
 :---- |-----:|------:|-----------:|:-----: 
 A novel variational method for liver segmentation based on statistical shape model prior and enforced local statistical feature | 2017 | [ISBI](https://ieeexplore.ieee.org/document/7950515) | Shenhai Zheng | Variational |
