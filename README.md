@@ -89,7 +89,7 @@ Automatic 3D liver location and segmentation via convolutional neural networks a
 Random forests on hierarchical multi-scale supervoxels for liver tumor segmentation in dynamic contrast-enhanced CT scans | 2016 | [ISBI](https://ieeexplore.ieee.org/document/7493296) | P.-H. Conze | RF | 
 
 #### <span id="id_5"/>Part Five: LiTS Results
-| Date |First Author | Network Architecture | N Dimension | Liver Per Case Dice|Liver Global Dice|Tumor Per Case Dice|Tumor Global Dice| Links |
+| Date |First Author |        Methods       | N Dimension | Liver Per Case Dice|Liver Global Dice|Tumor Per Case Dice|Tumor Global Dice| Links |
 |------|-------------|----------------------|-------------|--------------------|-----------------|-------------------|-----------------|-------|
 |202004|[Fabian Isensee](https://scholar.google.com.hk/citations?user=PjerEe4AAAAJ&hl=en&oi=sra)| UNet | 2D, 3D |0.967|0.970|0.763|0.858| Automated Design of Deep Learning Methods for Biomedical Image Segmentation [(arxiv)](https://arxiv.org/abs/1904.08128) |
 |201909|[Xudong Wang](https://scholar.google.com.hk/citations?user=RyS4ueAAAAAJ&hl=zh-CN&oi=sra)|  | 3D |-|-|0.741|-| Volumetric Attention for 3D Medical Image Segmentation and Detection [(MICCAI2019)](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_20) |
