@@ -86,6 +86,16 @@ Automatic 3D liver location and segmentation via convolutional neural networks a
 3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes | 2016 | [MICCAI](https://arxiv.org/abs/1607.00582) | Qi Dou | 3D DSN |  
 Random forests on hierarchical multi-scale supervoxels for liver tumor segmentation in dynamic contrast-enhanced CT scans | 2016 | [ISBI](https://ieeexplore.ieee.org/document/7493296) | P.-H. Conze | RF | 
 
+### LiTS Results
+| Date |First Author | Network Architecture | N Dimension | Liver Per Case Dice|Liver Global Dice|Tumor Per Case Dice|Tumor Global Dice| Links |
+|------|-------------|----------------------|-------------|--------------------|-----------------|-------------------|-----------------|-------|
+|202004|[Fabian Isensee](https://scholar.google.com.hk/citations?user=PjerEe4AAAAJ&hl=en&oi=sra)| UNet | 2D, 3D |0.967|0.970|0.763|0.858| Automated Design of Deep Learning Methods for Biomedical Image Segmentation [(arxiv)](https://arxiv.org/abs/1904.08128) |
+|201909|[Xudong Wang](https://scholar.google.com.hk/citations?user=RyS4ueAAAAAJ&hl=zh-CN&oi=sra)|  | 3D |-|-|0.741|-| Volumetric Attention for 3D Medical Image Segmentation and Detection [(MICCAI2019)](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_20) |
+|201908|Jianpeng Zhang|  | 3D |0.965|0.968|0.730|0.820| Light-Weight Hybrid Convolutional Network for Liver Tumor Segmentation [(IJCAI 2019)](https://doi.org/10.24963/ijcai.2019/593) |
+|202007|Youbao Tang| E^2Net |   |0.966|0.968|0.724|0.829| E^2Net: An Edge Enhanced Network for Accurate Liver and Tumor Segmentation on CT Scans [(arXiv)](https://arxiv.org/abs/2007.09791v1) |
+|201709|[Xiaomeng Li](https://scholar.google.ca/citations?user=uVTzPpoAAAAJ&hl=zh-CN&oi=sra)| H-DenseUNet |  |0.961|0.965|0.722|0.824| H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes, [(TMI)](https://arxiv.org/abs/1709.07330), [(Keras code)](https://github.com/xmengli999/H-DenseUNet) |   
+  
+  
 &nbsp; 
 &nbsp;  
 #### <span id="id_5"/>Part Five: Medical Image Scholars and High-quality open source code
