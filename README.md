@@ -4,8 +4,10 @@
 #### <a href="#id_2">Part Two: Deep Learning in Medical Image Segmentation Survey</a>
 #### <a href="#id_3">Part Three：Deep Learning in Liver Segmentation Survey</a> 
 #### <a href="#id_4">Part Four：Deep Learning in Liver and Tumor Segmentation</a> 
-#### <a href="#id_5">Part Five: Medical Image Scholars and High-quality open source code
-#### <a href="#id_6">Part Six: Reference</a>
+#### <a href="#id_5">Part Five: LiTS Results</a>
+#### <a href="#id_6">Part Five: 3Dircadb Results</a>
+#### <a href="#id_7">Part Seven: Medical Image Scholars and High-quality open source code</a>
+#### <a href="#id_8">Part Eight: Reference</a>
 &nbsp; 
 &nbsp; 
 &nbsp;  
@@ -86,7 +88,7 @@ Automatic 3D liver location and segmentation via convolutional neural networks a
 3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes | 2016 | [MICCAI](https://arxiv.org/abs/1607.00582) | Qi Dou | 3D DSN |  
 Random forests on hierarchical multi-scale supervoxels for liver tumor segmentation in dynamic contrast-enhanced CT scans | 2016 | [ISBI](https://ieeexplore.ieee.org/document/7493296) | P.-H. Conze | RF | 
 
-### LiTS Results
+#### <span id="id_5"/>Part Five: LiTS Results
 | Date |First Author | Network Architecture | N Dimension | Liver Per Case Dice|Liver Global Dice|Tumor Per Case Dice|Tumor Global Dice| Links |
 |------|-------------|----------------------|-------------|--------------------|-----------------|-------------------|-----------------|-------|
 |202004|[Fabian Isensee](https://scholar.google.com.hk/citations?user=PjerEe4AAAAJ&hl=en&oi=sra)| UNet | 2D, 3D |0.967|0.970|0.763|0.858| Automated Design of Deep Learning Methods for Biomedical Image Segmentation [(arxiv)](https://arxiv.org/abs/1904.08128) |
@@ -95,10 +97,13 @@ Random forests on hierarchical multi-scale supervoxels for liver tumor segmentat
 |202007|Youbao Tang| E^2Net |   |0.966|0.968|0.724|0.829| E^2Net: An Edge Enhanced Network for Accurate Liver and Tumor Segmentation on CT Scans [(arXiv)](https://arxiv.org/abs/2007.09791v1) |
 |201709|[Xiaomeng Li](https://scholar.google.ca/citations?user=uVTzPpoAAAAJ&hl=zh-CN&oi=sra)| H-DenseUNet |  |0.961|0.965|0.722|0.824| H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes, [(TMI)](https://arxiv.org/abs/1709.07330), [(Keras code)](https://github.com/xmengli999/H-DenseUNet) |   
   
+#### <span id="id_6"/>Part Six: 3Dircadb Results
+| Date |First Author | Network Architecture | N Dimension | Liver Per Case Dice|Liver Global Dice|Tumor Per Case Dice|Tumor Global Dice| Links |
+|------|-------------|----------------------|-------------|--------------------|-----------------|-------------------|-----------------|-------|  
   
 &nbsp; 
 &nbsp;  
-#### <span id="id_5"/>Part Five: Medical Image Scholars and High-quality open source code
+#### <span id="id_7"/>Part Seven: Medical Image Scholars and High-quality open source code
 Methods | Scholars | Date |Contens| Code|
 :---- |-----:|------:|-----------:|:-----:
 [NiftyNet](https://github.com/NifTK/NiftyNet) | E. Gibson | 2020 | (1)Support for 2-D, 2.5-D, 3-D, 4-D inputs   (2)Implementation of recent networks (HighRes3DNet, 3D U-net, V-net, DeepMedic)   (3)Comprehensive evaluation metrics for medical image segmentation | Tensorfolw |  
@@ -109,7 +114,7 @@ Methods | Scholars | Date |Contens| Code|
 
 &nbsp; 
 &nbsp;  
-Part Six: Liver and Tumor Datasets
+Part Eight: Liver and Tumor Datasets
 Dataset | Date | Paper|
 :------ |-----:|:-----:
 [MICCAI-SLiver07](http://www.sliver07.org/index.php) | 2007 | [IEEE TMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4781564) |
