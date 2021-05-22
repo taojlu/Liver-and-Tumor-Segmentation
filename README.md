@@ -52,9 +52,9 @@ Machine Learning Techniques for Biomedical Image Segmentation: An Overview of Te
 &nbsp; 
 &nbsp;  
 #### <span id="id_3"/>Part Three：Deep Learning in Liver Segmentation Survey 
-Title | Date | Links |First Author| Model+Code|
+Title | Date | Links |First Author| Code|
 :---- |-----:|------:|-----------:|:-----: 
-A novel variational method for liver segmentation based on statistical shape model prior and enforced local statistical feature | 2017 | [ISBI](https://ieeexplore.ieee.org/document/7950515) | Shenhai Zheng | Variational |
+Automatic Liver Segmentation from CT Images Using Deep Learning Algorithms: A Comparative Study | 2021 | [arxiv](https://arxiv.org/abs/2101.09987) | K. E. Sengun | --- |
 
 
 &nbsp; 
